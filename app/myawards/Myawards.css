@@ -1,0 +1,33 @@
+.awards_title {
+    width: 200px;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    padding: 15px;
+    border: 4px solid #000;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.myawards {
+    margin: 80px 0 40px 0;
+    padding: 20px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.awards {
+    padding: 20px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 85vh;
+    gap: 20px;
+}

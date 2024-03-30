@@ -1,0 +1,39 @@
+.aboutme_title {
+    width: 200px;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    padding: 15px;
+    border: 4px solid #000;
+    /* margin: auto; */
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.aboutme {
+    padding: 20px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 85vh;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.text {
+    max-width: 1200px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    letter-spacing: 1px;
+    /* margin-top: 50px; */
+}
+
+.shape {
+    margin-top: 50px;
+}
